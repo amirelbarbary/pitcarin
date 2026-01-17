@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "pitcarin",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "2ba3d477-a49f-4c8e-be9c-07d665ff15f5",
+			"database_name": "pitcarin"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
